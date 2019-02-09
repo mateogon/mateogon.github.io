@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 1"
+title:  "Lambdas, map and filter."
 date:   2019-02-09 18:43:41 -0300
 categories: courses
 ---
