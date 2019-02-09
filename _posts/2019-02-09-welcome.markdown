@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Empezando"
+date:   2019-02-09 12:15:41 -0300
+categories: jekyll update
+---
+Este es mi blog personal. Aqui registrare lo que vaya aprendiendo.
+Empezare con el curso "Python for Data Science and Machine Learning Bootcamp" a ver que tal Data Science.
