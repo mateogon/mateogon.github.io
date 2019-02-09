@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Dia 1"
+date:   2019-02-09 18:43:41 -0300
+categories: data science course
+---
+First chapter of the course was a Python crash course. I already knew most except for lambda expressions and map().
+So to use map function you need to do the following:
+{% highlight python %}
+data = [1,2,3,4]
+list = list(map(function,data))
+{% endhighlight %}
+
+And for lambdas, if you for example have the following function:
+{% highlight python %}
+def square(n)
+  return n**2
+#=> returns the square of n.
+{% endhighlight %}
+
+You can make a lambda expression of that function, it would look like:
+
+{% highlight python %}
+lambda n: n**2
+{% endhighlight %}
+
+And that's it.
