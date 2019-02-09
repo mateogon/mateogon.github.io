@@ -4,7 +4,7 @@ title:  "Day 1"
 date:   2019-02-09 18:43:41 -0300
 categories: courses
 ---
-First chapter of the course was a Python crash course. I already knew most except for lambda expressions and map().
+First chapter of the course was a Python crash course. I already knew most except for lambda expressions, map() and filter().
 So to use map function you need to do the following:
 {% highlight python %}
 data = [1,2,3,4]
@@ -29,3 +29,10 @@ And then you can replace the map function, so you don't have to define a functio
 data = [1,2,3,4]
 list = list(map(lambda n: n**2,data))
 {% endhighlight %}
+
+filter work in a similar way to map:
+{% highlight python %}
+list = list(filter(lambda n: n%2==0,data))
+#=> returns a list with pairs only.
+{% endhighlight %}
+
