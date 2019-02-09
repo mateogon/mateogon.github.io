@@ -8,7 +8,7 @@ First chapter of the course was a Python crash course. I already knew most excep
 So to use map function you need to do the following:
 {% highlight python %}
 data = [1,2,3,4]
-list = list(map(function,data))
+list = list(map(square,data))
 {% endhighlight %}
 
 And for lambdas, if you for example have the following function:
@@ -24,4 +24,8 @@ You can make a lambda expression of that function, it would look like:
 lambda n: n**2
 {% endhighlight %}
 
-And that's it.
+And then you can replace the map function, so you don't have to define a function for it:
+{% highlight python %}
+data = [1,2,3,4]
+list = list(map(lambda n: n**2,data))
+{% endhighlight %}
