@@ -2,7 +2,7 @@
 layout: post
 title:  "Day 1"
 date:   2019-02-09 18:43:41 -0300
-categories: course
+categories: courses
 ---
 First chapter of the course was a Python crash course. I already knew most except for lambda expressions and map().
 So to use map function you need to do the following:
