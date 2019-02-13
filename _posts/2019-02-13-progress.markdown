@@ -14,5 +14,11 @@ comes very handy to use as a reference for future projects.
 Here are exaples of graphs, this one is made with seaborn:
 <img src="/assets/images/output.png" alt="">
 It shows the ammount of 911 calls on every hour of the day on each day. You can see there are less calls during the night and during Sundays and Saturdays. Pretty cool.
+
+And here are two graphs made with Plotly. There are no conclusions here because it's random data.
 {% include scatterplot.html %}
 {% include boxplot.html %}
+
+The next half of the course is about Machine learning, a topic i'm really interested in.
+My first assignment is to read the first two chapters of the boom "An Introduction to Statistical Learning", so that's what i'll
+be doing the next couple days.
