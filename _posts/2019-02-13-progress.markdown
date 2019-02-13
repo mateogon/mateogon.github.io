@@ -12,4 +12,4 @@ All very powerful and useful for this kind of work. The course uses Jupyter note
 comes very handy to use as a reference for future projects.
 
 Here are exaples of graphs, this one is made with seaborn:
-<img src="/assets/images/output.jpg" alt="">
+<img src="/assets/images/output.png" alt="">
