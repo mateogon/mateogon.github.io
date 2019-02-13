@@ -20,5 +20,5 @@ And here are two graphs made with Plotly. There are no conclusions here because 
 {% include boxplot.html %}
 
 The next half of the course is about Machine learning, a topic i'm really interested in.
-My first assignment is to read the first two chapters of the boom "An Introduction to Statistical Learning", so that's what i'll
+My first assignment is to read the first two chapters of the book "An Introduction to Statistical Learning", so that's what i'll
 be doing the next couple days.
